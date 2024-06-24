@@ -7,19 +7,19 @@ const Header = () => {
       <div className="logo center">Logo</div>
       <div className="center">
         <div className="jobs center ">
-          <img src="/Assets/briefcase-02.png" alt="" /> Jobs
+          <img src="/Assets/briefcase-02.png" alt="..." /> Jobs
         </div>
         <div className="middleBar">
           <div className="middleOption center">
-            <img src="/Assets/message.png" />
+            <img src="/Assets/message.png" alt="..." />
             Messages
           </div>
           <div className="middleOption center">
-            <img src="/Assets/payements.png" />
+            <img src="/Assets/payements.png" alt="..." />
             Payments
           </div>
           <div className="middleOption center">
-            <img src="/Assets/users-01.png" />
+            <img src="/Assets/users-01.png" alt="..." />
             Application
           </div>
         </div>
