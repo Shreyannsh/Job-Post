@@ -1,0 +1,26 @@
+.section3 {
+  border-bottom: 1px solid var(--light-grey);
+  width: 100%;
+  padding-left: 4vw;
+  text-align: left;
+}
+
+li {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+}
+
+.section3Content {
+  margin-left: 1rem;
+}
+
+.section3Content p {
+  line-height: 0;
+  margin-left: -1rem;
+}
+
+.section3Content .bullet {
+  margin-left: 1rem;
+}

@@ -1,0 +1,28 @@
+.navigationBarParent {
+    background-color: white;
+    border: 1px solid #e7e7e7;
+    position: fixed;
+    top: 126px;
+    left: 0;
+    right: 0;
+  }
+  .navigationBar {
+    margin-left: 5rem;
+    width: 608px;
+    height: 56.64px;
+    gap: 72px;
+  }
+  
+ .option {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: var(--dark-grey);
+    height: 56.64px;
+  }
+  
+  .jobPreview {
+    color: var(--red);
+    border-bottom: 1px solid var(--red);
+  }

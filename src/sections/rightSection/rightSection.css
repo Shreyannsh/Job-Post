@@ -1,0 +1,94 @@
+.rightSection {
+  padding: 2rem;
+  border-left: 1px solid #e7e7e7;
+  background: #fcfcfc;
+  height: 100%;
+  margin-top:0px;
+  width: 84%;
+}
+
+.button1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 35%;
+  min-width: 90px;
+  height: 3vh;
+  padding: 12px 24px 12px 24px;
+  gap: 10px;
+  border-radius: 8px;
+  opacity: 0px;
+  border: 0.8px solid #dc4a2d;
+  background-color: white;
+  color: #dc4a2d;
+}
+
+.button2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:20%;
+  min-width: 90px;
+  height: 3vh;
+  padding: 12px 24px 12px 24px;
+  gap: 10px;
+  border-radius: 8px;
+  opacity: 0px;
+  border: 0.8px solid #dc4a2d;
+  background-color: #dc4a2d;
+  color: white;
+}
+
+.card {
+  padding: 30px 10px;
+  border-bottom: 1px solid var(--light-grey);
+}
+
+.card div {
+  color: #4f4f4f;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+
+.qoute {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  margin-bottom: 5rem;
+}
+
+.name {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+}
+
+.desc {
+  color: #828282;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+}
+
+.quoteCard {
+    margin-top: 3rem;
+  width: 80%;
+  height: 196px;
+  padding: 2rem;
+  border-radius: 12px;
+  background: #ffffff;
+  border: 1px solid #f7f7f7;
+  box-shadow: -4px 8px 20px 0px #0000001a;
+}
+
+.cardDetails {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  gap: 10px;
+}
