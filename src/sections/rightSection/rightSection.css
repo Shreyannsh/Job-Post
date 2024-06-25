@@ -17,7 +17,6 @@
   padding: 12px 24px 12px 24px;
   gap: 10px;
   border-radius: 8px;
-  opacity: 0px;
   border: 0.8px solid #dc4a2d;
   background-color: white;
   color: #dc4a2d;
@@ -33,7 +32,7 @@
   padding: 12px 24px 12px 24px;
   gap: 10px;
   border-radius: 8px;
-  opacity: 0px;
+
   border: 0.8px solid #dc4a2d;
   background-color: #dc4a2d;
   color: white;
